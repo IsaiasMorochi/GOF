@@ -1,4 +1,4 @@
-package com.imorochi.gof.behavioral.observer;
+package com.imorochi.gof.behavioral.observer.v1;
 
 public class Follower implements Observer {
     private String followerName;

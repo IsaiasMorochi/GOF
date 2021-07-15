@@ -1,4 +1,4 @@
-package com.imorochi.gof.behavioral.observer;
+package com.imorochi.gof.behavioral.observer.v1;
 
 import java.util.ArrayList;
 
